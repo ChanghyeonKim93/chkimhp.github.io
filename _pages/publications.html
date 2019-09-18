@@ -1,0 +1,12 @@
+---
+layout: archive 
+author_profile: true
+permalink: /publications/
+header:
+  overlay_image: header/Joffre_Vancouver_BC_Canada.jpg
+excerpt: "Publications"
+---
+
+{% for post in site.categories.pub %}
+	{% include archive-pub-single.html %}
+{% endfor %}

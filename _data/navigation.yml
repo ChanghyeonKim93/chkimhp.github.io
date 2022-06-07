@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "publications"
-    url: /_pages/publications/index.html
+    url: /publications
     
   - title: "IROS2020"
     url: /iros2020

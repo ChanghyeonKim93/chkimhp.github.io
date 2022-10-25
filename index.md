@@ -11,9 +11,9 @@ feature_row_pub:
     title: #"Robust VO"
     excerpt: #"VO estimates the ego-motion with high accuracy and robustly in dynamic environments."
 ---
-Currently, I'm a Ph.D. student in <a href="http://larr.snu.ac.kr/" target="_blank">LARR</a> (the former name of it 'ICSL') in Seoul National University, Seoul, South Korea. Main research topic is **Visual-LiDAR navigation, 3D reconstruction** for robotics applications, including visual odometry (VO), Visual-LiDAR 3D reconstruction and mapping.
+Currently, I'm a Ph.D. student in <a href="https://larr.snu.ac.kr/" target="_blank">LARR</a> (the former name of it 'ICSL') in Seoul National University, Seoul, South Korea. Main research topic is **Visual-LiDAR navigation, 3D reconstruction** for robotics applications, including visual odometry (VO), Visual-LiDAR 3D reconstruction and mapping.
 
-My colleagues also interested in vision-based navigation are <a href="http://pyojinkim.me/" target="_blank">Pyojin Kim</a>, <a href="http://sangillee.com" target="_blank">Sangil Lee</a>, Haram Kim, Yeongseok Jang, Junha Kim, and Changseok Oh.
+My colleagues also interested in vision-based navigation are <a href="https://mpil.sookmyung.ac.kr/" target="_blank">Pyojin Kim (MPIL)</a>, <a href="http://sangillee.com" target="_blank">Sangil Lee</a>, Haram Kim, Yeongseok Jang, Junha Kim, and Changseok Oh.
 
 {% include feature_row id="feature_row_pub" caption="Featured Publications" %}
 

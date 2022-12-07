@@ -9,7 +9,6 @@ excerpt: "access2022"
 
 {% include archive-single.html %}
 ## [ACCESS2022] Author-collected SNU underground parking lots datasets
-
 The datasets are used in our submission to **IEEE ACCESS 2022**.
 
 ### Characteristics

@@ -1,15 +1,15 @@
 ---
 layout: single
-permalink: /access2022/
+permalink: /scalemvo/
 header: 
     overlay_image: header/Joffre_Vancouver_BC_Canada.jpg
-excerpt: "access2022"
+excerpt: "scalemvo"
 
 ---
 
 {% include archive-single.html %}
-## [ACCESS2022] Author-collected SNU underground parking lots datasets
-The datasets are used in our submission to **IEEE ACCESS 2022**.
+## [scalemvo] Author-collected SNU underground parking lots datasets
+The datasets are used in our submission to **scalemvo paper**.
 
 ### Characteristics
 We collect our own driving datasets, called SNU underground parking lots datasets. 

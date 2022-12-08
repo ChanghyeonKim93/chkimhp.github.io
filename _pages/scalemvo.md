@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /scalemvo/
+permalink: /scalemvo
 header: 
     overlay_image: header/Joffre_Vancouver_BC_Canada.jpg
 excerpt: "scalemvo"
